@@ -1,7 +1,7 @@
 # PyBer_Analysis
 Data Analytics Bootcamp M5
 ## Overview
-This analysis is to creating visualizations of rideshare data for PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods. The analysis used the Python graphing library Matplotlib. 
+This analysis is to summarize rideshare data for PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods. The analysis used the Jupyter Notebook. 
 
 In the analysis, the data is summarized in a table, where number of rides, total drivers, total fares and the average of fare per ride and per driver are tabulated in three categories of cities, which are rural, suburban and urban.
 
